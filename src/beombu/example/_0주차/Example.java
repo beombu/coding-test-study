@@ -2,6 +2,9 @@ package beombu.example._0주차;
 
 import java.util.Arrays;
 
+/**
+ * 프로그래머스 예시
+ */
 class Example {
     static int testCase = 0;
 
