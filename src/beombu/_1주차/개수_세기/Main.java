@@ -1,4 +1,4 @@
-package beombu.example._1주차.개수_세기;
+package beombu._1주차.개수_세기;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package beombu.example._1주차.배열만들기;
+package beombu._1주차.배열만들기;
 
 import java.util.Arrays;
 import java.util.Collections;

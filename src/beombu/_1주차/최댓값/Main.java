@@ -1,4 +1,4 @@
-package beombu.example._1주차.최댓값;
+package beombu._1주차.최댓값;
 
 import java.io.BufferedReader;
 import java.io.IOException;
