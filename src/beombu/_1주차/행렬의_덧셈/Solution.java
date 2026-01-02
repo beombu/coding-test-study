@@ -1,4 +1,4 @@
-package beombu.example._1주차.행렬의_덧셈;
+package beombu._1주차.행렬의_덧셈;
 
 class Solution {
     public int[][] solution(int[][] arr1, int[][] arr2) {
